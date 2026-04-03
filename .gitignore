@@ -1,1 +1,21 @@
+# Build outputs
+build/
+.dart_tool/
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Research raw files
 crypto_defi_market_research_2025_2026.md
+CEX_Earn_Products_Research_2025_2026.md
+
+# Misc
+*.iml
+.metadata
